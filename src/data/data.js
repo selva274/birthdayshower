@@ -112,7 +112,7 @@ export const data=[
       "age": 90,
       "date_of_birth": {
         "day": 5,
-        "month": 1,
+        "month": 10,
         "year": 1932
       }
     },
